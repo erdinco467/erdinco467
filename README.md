@@ -1,6 +1,6 @@
 ## Hi, I am Erdinc 👋
 
-I make a souls-like action game on Roblox as a hobby: parry, poise, shield bar, air combos and enemies that surround you.
+I make a souls-like inspired action game on Roblox as a hobby: parry, poise, shield bar, air combos and enemies that surround you.
 I am not a professional programmer. I plan and test the game, and I build a lot of the code together with Claude (Anthropic). I like to say that openly.
 
 ### What I work on
