@@ -9,6 +9,7 @@ I am not a professional programmer. I plan and test the game, and I build a lot 
 - Small tools that connect school and my daily work (MCP servers)
 
 ### Projects
+- [Lesefluss](https://github.com/erdinco467/lesefluss) – speed reader and calm focus reader for people who struggle to concentrate. [Try it in the browser](https://erdinco467.github.io/lesefluss/)
 - [roblox-anim-tools](https://github.com/erdinco467/roblox-anim-tools) – FBX to Roblox animation with Lune, upload with Open Cloud
 - [operation-bernhard](https://github.com/erdinco467/operation-bernhard) – history school project
 - [kindertransporte](https://github.com/erdinco467/kindertransporte) – history school project
